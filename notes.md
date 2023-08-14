@@ -1,4 +1,4 @@
-## Rust Notes
+# Rust Notes
 
 ## Variables
 
